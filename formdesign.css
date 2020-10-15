@@ -110,6 +110,12 @@ button{
 span{
     color: red;
 }
+.creator{
+    position: absolute;
+    margin-top: 580px;
+    display: flex;
+    text-align: center;
+}
 
 @media only screen and (max-width: 767px) {
     .main-container{
@@ -135,6 +141,9 @@ span{
     h2{
         font-size: 50px;
         text-align: center;
+    }
+    .creator{
+     margin-top: 961px;
     }
     
      
